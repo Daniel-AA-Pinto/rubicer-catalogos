@@ -1,4 +1,12 @@
 {
-  "updatedAt": "2026-05-31T23:15:14+00:00",
-  "catalogs": []
+  "updatedAt": "2026-05-31T23:17:46+00:00",
+  "catalogs": [
+    {
+      "id": "01.LAMINAS-RUBICER.2026",
+      "title": "01.laminas Rubicer.2026",
+      "version": "db9a1b9993cdc9fa1cc03bb16c300e3b7284dd9cd52ed2dfddd3399136ed1b47",
+      "url": "https://raw.githubusercontent.com/Daniel-AA-Pinto/rubicer-catalogos/main/catalogs/01.LAMINAS-RUBICER.2026.pdf",
+      "sizeBytes": 8786552
+    }
+  ]
 }
