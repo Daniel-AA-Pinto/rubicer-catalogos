@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'catalogs/**'
+      - 'covers/**'
       - 'scripts/generate_manifest.py'
   workflow_dispatch:
 
